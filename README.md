@@ -55,6 +55,6 @@ Cet exercice consiste à construire une interface web de type onepage, puis à c
 
 1- Paramétrez votre projet afin de compiler automatiquement le fichier styles.scss sous le nom styles.css dans le dossier css.
 
-2- Videz votre fichier CSS et lancez la comilation
+2- Videz votre fichier CSS et lancez la compilation
 
 3- Vérifiez et testez votre intégration 
